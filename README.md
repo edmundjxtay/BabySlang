@@ -1,5 +1,5 @@
 # BabySlang Sign Language Learning Web Application
-*Please take note videos are not uploaded into GitHub due to file size limitations.
+*Please take note that this is my Bachelor of IT degree final year project. I am the project lead leading a team of 4 members (including myself) to deliver this project. Videos are not uploaded into GitHub due to file size limitations.
 
 **1.	Executive Summary**
 
