@@ -1,4 +1,5 @@
 # BabySlang Sign Language Learning Web Application
+*Please take note videos are unable to uploaded into GitHub due to file size limitations.
 
 **1.	Executive Summary**
 
